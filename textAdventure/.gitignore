@@ -1,0 +1,21 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+myenv/
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Secret files
+secrets.txt
+config.json
